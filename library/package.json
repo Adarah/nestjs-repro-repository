@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "@nestjs/common": "^8.0.3",
     "@nestjs/core": "^8.0.3"
   },
